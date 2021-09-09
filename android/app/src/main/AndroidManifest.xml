@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codekites.datingapp">
+    package="com.codekites.talash">
 
     <!-- For Network connection -->
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -22,7 +22,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Dating App"
+        android:label="Talash"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -77,14 +77,14 @@
         <!-- Sample AdMob App ID for test: ca-app-pub-3940256099942544~3347511713 -->  
         <meta-data
           android:name="com.google.android.gms.ads.APPLICATION_ID"
-          android:value="ca-app-pub-7518617659416947~7473602354"/>
+          android:value="ca-app-pub-4257951704946505~6014973035"/>
 
         <!-- Config for place_picker plugin to use the Passport feature!
         // Add your Android API KEY for Google MAPS 
         // Get your it from your Google Cloud Platform Developer Account
         // Link: https://console.cloud.google.com/apis/credentials -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBCtzBnPcyAW4lMW8o_J6Ur4x-IQkvwuT8"/>             
+               android:value="AIzaSyBoyjROEY1FDhF6nWXCognnOM1Gs94ED7I"/>
             
     </application>
 </manifest>

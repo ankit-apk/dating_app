@@ -1,4 +1,4 @@
-package com.codekites.datingapp
+package com.codekites.talash
 
 import io.flutter.embedding.android.FlutterActivity
 
