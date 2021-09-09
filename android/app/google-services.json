@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399182725471",
+    "project_id": "dating-app-ec133",
+    "storage_bucket": "dating-app-ec133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399182725471:android:3a157993c0b796dd9376ea",
+        "android_client_info": {
+          "package_name": "com.codekites.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399182725471-jncsosqmn17ml15ptfig264lnb7n594p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekites.datingapp",
+            "certificate_hash": "ae94abb30ff7ded19970af7a06a2b379a1544f8f"
+          }
+        },
+        {
+          "client_id": "399182725471-gbu7ans5j9olf7o5l8hbkouojfo1n2do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-ek8xb5wspivTnJG00-DQOCo13qTfm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399182725471-gbu7ans5j9olf7o5l8hbkouojfo1n2do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
